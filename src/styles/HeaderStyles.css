@@ -12,7 +12,7 @@
   color: white;
 }
 .active {
-  color: goldenrod !important;
+  color: rgb(98, 192, 229) !important;
   font-weight: bold !important;
 }
 /* mobile view */

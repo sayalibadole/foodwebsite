@@ -19,7 +19,7 @@ const Footer = () => {
               mr: 2,
             },
             "& svg:hover": {
-              color: "goldenrod",
+              color: "lightblue",
               transform: "translateX(5px)",
               transition: "all 400ms",
             },
@@ -39,7 +39,7 @@ const Footer = () => {
             },
           }}
         >
-          All Rights Reserved &copy; Techinfo YT
+          Sayali Badole &copy; 2023
         </Typography>
       </Box>
     </>

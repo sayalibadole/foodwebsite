@@ -8,7 +8,7 @@ import {
   Toolbar,
   Typography,
 } from "@mui/material";
-import Logo from "../../images/logo.svg";
+import Logo from "../../images/logo.png";
 
 import MenuIcon from "@mui/icons-material/Menu";
 import { NavLink } from "react-router-dom";
@@ -23,7 +23,7 @@ const Header = () => {
   const drawer = (
     <Box onClick={handleDrawerToggle} sx={{ textAlign: "center" }}>
       <Typography
-        color={"goldenrod"}
+        color={"lightblue"}
         variant="h6"
         component="div"
         sx={{ flexGrow: 1, my: 2 }}
@@ -67,7 +67,7 @@ const Header = () => {
               <MenuIcon />
             </IconButton>
             <Typography
-              color={"goldenrod"}
+              color={"lightblue"}
               variant="h6"
               component="div"
               sx={{ flexGrow: 1 }}
