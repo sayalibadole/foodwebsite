@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/foodwebsite/static/css/main.cf46ba14.css",
+    "main.css": "/foodwebsite/static/css/main.06bc81a0.css",
     "main.js": "/foodwebsite/static/js/main.8634662e.js",
     "static/js/787.091bb736.chunk.js": "/foodwebsite/static/js/787.091bb736.chunk.js",
     "static/media/banner.jpg": "/foodwebsite/static/media/banner.a226d5c479769eafb641.jpg",
@@ -12,12 +12,12 @@
     "static/media/salad.jpg": "/foodwebsite/static/media/salad.08a5e04c0891c8578bfe.jpg",
     "static/media/icecream.jpg": "/foodwebsite/static/media/icecream.9ebdb8870947c74215a4.jpg",
     "index.html": "/foodwebsite/index.html",
-    "main.cf46ba14.css.map": "/foodwebsite/static/css/main.cf46ba14.css.map",
+    "main.06bc81a0.css.map": "/foodwebsite/static/css/main.06bc81a0.css.map",
     "main.8634662e.js.map": "/foodwebsite/static/js/main.8634662e.js.map",
     "787.091bb736.chunk.js.map": "/foodwebsite/static/js/787.091bb736.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf46ba14.css",
+    "static/css/main.06bc81a0.css",
     "static/js/main.8634662e.js"
   ]
 }
