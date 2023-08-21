@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/foodwebsite/static/css/main.02a5ed09.css",
-    "main.js": "/foodwebsite/static/js/main.d3968e5d.js",
+    "main.css": "/foodwebsite/static/css/main.cf46ba14.css",
+    "main.js": "/foodwebsite/static/js/main.8634662e.js",
     "static/js/787.091bb736.chunk.js": "/foodwebsite/static/js/787.091bb736.chunk.js",
-    "static/media/masala.jpg": "/foodwebsite/static/media/masala.f4dd64f4906d42ddcbdb.jpg",
-    "static/media/banner.jpeg": "/foodwebsite/static/media/banner.05892fe97cce26a5d9e5.jpeg",
-    "static/media/chhola.jpg": "/foodwebsite/static/media/chhola.a1458ef1370699c23212.jpg",
-    "static/media/logo.svg": "/foodwebsite/static/media/logo.6fc22e5fbdec6b9338921613bddec0dd.svg",
-    "static/media/paneer.jpg": "/foodwebsite/static/media/paneer.f04d2c563fe596463e47.jpg",
-    "static/media/idli.jpg": "/foodwebsite/static/media/idli.dc2d98fda6c7a903c64b.jpg",
-    "static/media/gujrati.jpeg": "/foodwebsite/static/media/gujrati.77bd2d3baa11e6cf3dcd.jpeg",
-    "static/media/dosa.jpg": "/foodwebsite/static/media/dosa.5c938f456ea86779ba13.jpg",
+    "static/media/banner.jpg": "/foodwebsite/static/media/banner.a226d5c479769eafb641.jpg",
+    "static/media/pasta.jpg": "/foodwebsite/static/media/pasta.d36d799821c25be93d3f.jpg",
+    "static/media/logo.png": "/foodwebsite/static/media/logo.116898dc10d088a5021f.png",
+    "static/media/pita.jpg": "/foodwebsite/static/media/pita.de18d9adcb932b53546f.jpg",
+    "static/media/sandwitch.jpg": "/foodwebsite/static/media/sandwitch.d55ed859e3d95f8896f3.jpg",
+    "static/media/pizza.jpg": "/foodwebsite/static/media/pizza.acffb8183528033a46b1.jpg",
+    "static/media/salad.jpg": "/foodwebsite/static/media/salad.08a5e04c0891c8578bfe.jpg",
+    "static/media/icecream.jpg": "/foodwebsite/static/media/icecream.9ebdb8870947c74215a4.jpg",
     "index.html": "/foodwebsite/index.html",
-    "main.02a5ed09.css.map": "/foodwebsite/static/css/main.02a5ed09.css.map",
-    "main.d3968e5d.js.map": "/foodwebsite/static/js/main.d3968e5d.js.map",
+    "main.cf46ba14.css.map": "/foodwebsite/static/css/main.cf46ba14.css.map",
+    "main.8634662e.js.map": "/foodwebsite/static/js/main.8634662e.js.map",
     "787.091bb736.chunk.js.map": "/foodwebsite/static/js/787.091bb736.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.02a5ed09.css",
-    "static/js/main.d3968e5d.js"
+    "static/css/main.cf46ba14.css",
+    "static/js/main.8634662e.js"
   ]
 }
