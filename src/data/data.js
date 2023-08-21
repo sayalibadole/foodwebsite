@@ -1,51 +1,51 @@
-import Pasta from "../images/pasta.jpg";
-import Pizza from "../images/pizza.jpg";
-import Pita from "../images/pita.jpg";
-import Sandwitch from "../images/sandwitch.jpg";
-import Salad from "../images/salad.jpg";
-import Icecream from "../images/icecream.jpg";
+import Dosa from "../images/dosa.jpg";
+import Chola from "../images/chhola.jpg";
+import Idli from "../images/idli.jpg";
+import MasalaDosa from "../images/masala.jpg";
+import Paneer from "../images/paneer.jpg";
+import Gujrati from "../images/gujrati.jpeg";
 
 export const MenuList = [
   {
-    name: "Pasta",
+    name: "Dosa",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
-    image: Pasta,
+    image: Dosa,
     price: 200,
   },
   {
-    name: "Pizza",
+    name: "Chola",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
-    image: Pizza,
+    image: Chola,
     price: 250,
   },
   {
-    name: "Pita",
+    name: "Idli Sambhar",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
-    image: Pita,
+    image: Idli,
     price: 300,
   },
   {
-    name: "Sandwitch",
+    name: "Masala Dosa",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
-    image: Sandwitch,
+    image: MasalaDosa,
     price: 100,
   },
   {
-    name: "Salad",
+    name: "Paneer",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
-    image: Salad,
+    image: Paneer,
     price: 400,
   },
   {
-    name: "Icecream",
+    name: "Gujrati",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
-    image: Icecream,
+    image: Gujrati,
     price: 500,
   },
 ];
